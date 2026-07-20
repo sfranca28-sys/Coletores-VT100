@@ -1,4 +1,4 @@
-# ADVPL VT100 Production Collector
+# ADVPL VT100 (Coletor Telnet)
 
 Sistema para coletores de dados via **Telnet (VT100)** desenvolvido em **ADVPL/TL++** para o ERP **TOTVS Protheus**.
 
